@@ -97,7 +97,7 @@ Bugs are not expected if found, it is part of the game
 
 ## Code Organisation
 
->Click on this [Link](https://google.com)  to watch a short run of the game
+>Click on this [Link](https://github.com/JinAML/Conflict/tree/Conflict-patch-1.00)  to watch a short run of the game
 
 |Objects/Class|Function|What/How|
 |----------------|-------------------------------|-----------------------------|
