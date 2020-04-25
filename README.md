@@ -114,4 +114,5 @@ Stories (Chapters)|`PLOT`|Text-based
 >#DO NOT EDIT ANYTHING
 
 ## Acknowledgments
+The password is: _______
 #AML
