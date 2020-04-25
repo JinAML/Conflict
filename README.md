@@ -22,7 +22,7 @@ tkinter, sys, os
   ```
 
 ## How to run the game
- 1. Download the [game](https://lol.com) 
+ 1. Download the [game](https://github.com/JinAML/Conflict/tree/Conflict-patch-1.00) 
  2. Unzip the file
  3. Open up [Game].py file
  4. Enjoy
